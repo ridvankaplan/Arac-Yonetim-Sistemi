@@ -1,7 +1,0 @@
-Otomobil_1    null    null    0    0    1999    0.0    null    0    
-Bisiklet_1    null    null    0    0    2015    0.0    0    
-Gemi_1    null    null    0    0    2005    0.0    
-Ucak_1    null    null    0    0    2016    0.0    
-UcanGemi_1    null    null    0    0    Ridvan    0.0    
-Otomobil_2    null    null    0    0    2017    0.0    null    0    
-Gemi_2    	null    null    0    0    20144    0.0    
